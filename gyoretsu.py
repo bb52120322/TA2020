@@ -10,3 +10,4 @@ D=np.dot(C,A)
 
 print (C)
 print (D)
+
